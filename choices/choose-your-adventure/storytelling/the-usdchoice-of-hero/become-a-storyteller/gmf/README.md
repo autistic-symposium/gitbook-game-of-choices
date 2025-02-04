@@ -214,6 +214,7 @@ layout:
 * Dynamite
 * Post Malone
 * Imagine Dragons
+* Lady Gaga
 * Deep Purple
 * Jungle
 * Aretha Franklin
