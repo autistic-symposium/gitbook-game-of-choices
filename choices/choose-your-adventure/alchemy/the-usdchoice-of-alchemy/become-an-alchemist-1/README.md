@@ -1,6 +1,16 @@
 ---
 description: Resources to master the Alchemy craft. This list is updated periodically.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🧙‍♂️ 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊𝚗 𝙰𝚕𝚌𝚑𝚎𝚖𝚒𝚜𝚝

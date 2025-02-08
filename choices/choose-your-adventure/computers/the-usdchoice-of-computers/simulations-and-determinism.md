@@ -1,5 +1,15 @@
 ---
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 👩🏾‍💻 𝚂𝚒𝚖𝚞𝚕𝚊𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝙳𝚎𝚝𝚎𝚛𝚖𝚒𝚗𝚒𝚜𝚖

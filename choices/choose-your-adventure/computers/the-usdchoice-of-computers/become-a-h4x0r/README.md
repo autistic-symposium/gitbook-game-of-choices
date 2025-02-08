@@ -1,6 +1,16 @@
 ---
 description: This resource list is updated periodically.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 👩🏿‍💻 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊 𝚑𝟺𝚡𝟶𝚛

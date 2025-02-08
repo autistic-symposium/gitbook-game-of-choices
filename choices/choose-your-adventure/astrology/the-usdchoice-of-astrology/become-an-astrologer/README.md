@@ -2,7 +2,17 @@
 description: >-
   Resources to learn how to understand the underlying algorithm on the
   correlation level. This list is updated periodically.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🧙 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊𝚗 𝙰𝚜𝚝𝚛𝚘𝚕𝚘𝚐𝚎𝚛

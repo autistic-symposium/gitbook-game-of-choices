@@ -1,6 +1,16 @@
 ---
 description: ✨ Resources for infinite wonder ✨ (This list is updated periodically)
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 👩‍🎤 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊 𝚂𝚌𝚒𝚎𝚗𝚝𝚒𝚜𝚝
@@ -15,40 +25,40 @@ layout: editorial
 
 ## <mark style="background-color:red;">Books</mark>
 
-* [**Gödel, Escher, Bach, by Douglas Hofstadter**](https://en.wikipedia.org/wiki/G%C3%B6del,\_Escher,\_Bach)
+* [**Gödel, Escher, Bach, by Douglas Hofstadter**](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)
 * [**The Selfish Gene, Charles Dawkins**](https://archive.org/download/pdfy-RHEZa8riPwBuUyrV/The%20Selfish%20Gene.pdf)
 
 #### Anything Dr. Roger Penrose
 
 * [**Why did our universe begin?**](https://www.youtube.com/watch?v=ypjZF6Pdrws)
 * [**Is mathematics invented or discovered?**](https://www.youtube.com/watch?v=ujvS2K06dg4)
-* [**The Road to Reality**](https://en.wikipedia.org/wiki/The\_Road\_to\_Reality)
+* [**The Road to Reality**](https://en.wikipedia.org/wiki/The_Road_to_Reality)
 * [**Spinors and Space-time**](https://www.amazon.com/Spinors-Cambridge-Monographs-Mathematical-Physics/dp/0521337070)
-* [**Cycles of Time**](https://en.wikipedia.org/wihttps://en.wikipedia.org/wiki/Cycles\_of\_Timeki/Cycles\_of\_Time)
+* [**Cycles of Time**](https://en.wikipedia.org/wihttps://en.wikipedia.org/wiki/Cycles_of_Timeki/Cycles_of_Time)
 
 #### Anything Dr. Carl Sagan
 
-* [**The Demon-Haunted World**](https://en.wikipedia.org/wiki/The\_Demon-Haunted\_World)
-* [**Cosmos**](https://en.wikipedia.org/wiki/Cosmos:\_A\_Spacetime\_Odyssey)
-* [**Contact**](https://en.wikipedia.org/wiki/Contact\_\(novel\))
-* [**Pale Blue Dot**](https://en.wikipedia.org/wiki/Pale\_Blue\_Dot)
+* [**The Demon-Haunted World**](https://en.wikipedia.org/wiki/The_Demon-Haunted_World)
+* [**Cosmos**](https://en.wikipedia.org/wiki/Cosmos:_A_Spacetime_Odyssey)
+* [**Contact**](https://en.wikipedia.org/wiki/Contact_\(novel\))
+* [**Pale Blue Dot**](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 
 #### Anything Dr. Richard Feynman
 
 * [**Lectures on Physics**](https://www.feynmanlectures.caltech.edu/)
-* [**Surely You’re Joking, Mr. Feynman!**](https://en.wikipedia.org/wiki/Surely\_You're\_Joking,\_Mr.\_Feynman!)
-* [**The Pleasure Of Finding Things Out**](https://en.wikipedia.org/wiki/The\_Pleasure\_of\_Finding\_Things\_Out)[**https://en.wikipedia.org/wiki/The\_Pleasure\_of\_Finding\_Things\_Out**](https://en.wikipedia.org/wiki/The\_Pleasure\_of\_Finding\_Things\_Out)
-* [**The Character Of Physical Law**](https://en.wikipedia.org/wiki/The\_Character\_of\_Physical\_Law)
-* [**QED: The Strange Theory Of Light and Matter**](https://en.wikipedia.org/wiki/QED:\_The\_Strange\_Theory\_of\_Light\_and\_Matter)
+* [**Surely You’re Joking, Mr. Feynman!**](https://en.wikipedia.org/wiki/Surely_You're_Joking,_Mr._Feynman!)
+* [**The Pleasure Of Finding Things Out**](https://en.wikipedia.org/wiki/The_Pleasure_of_Finding_Things_Out)[**https://en.wikipedia.org/wiki/The\_Pleasure\_of\_Finding\_Things\_Out**](https://en.wikipedia.org/wiki/The_Pleasure_of_Finding_Things_Out)
+* [**The Character Of Physical Law**](https://en.wikipedia.org/wiki/The_Character_of_Physical_Law)
+* [**QED: The Strange Theory Of Light and Matter**](https://en.wikipedia.org/wiki/QED:_The_Strange_Theory_of_Light_and_Matter)
 
 
 
 #### Anything Dr. Stephen Hawking
 
-* [**A Brief History of Time**](https://en.wikipedia.org/wiki/A\_Brief\_History\_of\_Time)
+* [**A Brief History of Time**](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
 * [**The Theory of Everything**](https://www.getstoryshots.com/books/the-theory-of-everything-summary/)
-* [**The Universe in a Nutshell**](https://en.wikipedia.org/wiki/The\_Universe\_in\_a\_Nutshell)
+* [**The Universe in a Nutshell**](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell)
 
 #### Anything Dr. Werner Heisenberg
 
-* [**Physics and Philosophy**](https://www.goodreads.com/book/show/111185.Physics\_and\_Philosophy)
+* [**Physics and Philosophy**](https://www.goodreads.com/book/show/111185.Physics_and_Philosophy)

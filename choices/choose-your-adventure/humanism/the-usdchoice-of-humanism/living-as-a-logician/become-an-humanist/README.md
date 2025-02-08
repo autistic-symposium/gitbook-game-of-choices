@@ -1,6 +1,16 @@
 ---
 description: This list is updated periodically.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🌹 𝙱𝚎𝚌𝚘𝚖𝚎 𝚊 𝙷𝚞𝚖𝚊𝚗𝚒𝚜𝚝
@@ -39,9 +49,9 @@ layout: editorial
 
 * [**Eternalised**](https://www.youtube.com/@Eternalised)
 * [**Academy of Ideas**](https://www.youtube.com/@academyofideas)
-* **Carl Young's Philosophy:** [**Collection 1** ](https://www.youtube.com/playlist?list=PL\_0I7-kEnl0a-LIJt0jzonLLufyjRGje6)**and** [**Collection 2**](https://www.youtube.com/playlist?list=PLAYxecbGotUz1tjZlymlSc30aENg\_S0Xp)
-* **Nietzsche's Philosophy:** [**Collection 1**](https://www.youtube.com/playlist?list=PL\_0I7-kEnl0Zl6FCbMY6dadEFg5iQ516w) **and** [**Collection 2**](https://www.youtube.com/playlist?list=PLAYxecbGotUyqiNRXY\_VrUvF952rLmyNl)
-* [**Existentialism Explained**](https://www.youtube.com/playlist?list=PL\_0I7-kEnl0Y\_3uTzJ-j-Hqk2Memvivkg)
+* **Carl Young's Philosophy:** [**Collection 1** ](https://www.youtube.com/playlist?list=PL_0I7-kEnl0a-LIJt0jzonLLufyjRGje6)**and** [**Collection 2**](https://www.youtube.com/playlist?list=PLAYxecbGotUz1tjZlymlSc30aENg_S0Xp)
+* **Nietzsche's Philosophy:** [**Collection 1**](https://www.youtube.com/playlist?list=PL_0I7-kEnl0Zl6FCbMY6dadEFg5iQ516w) **and** [**Collection 2**](https://www.youtube.com/playlist?list=PLAYxecbGotUyqiNRXY_VrUvF952rLmyNl)
+* [**Existentialism Explained**](https://www.youtube.com/playlist?list=PL_0I7-kEnl0Y_3uTzJ-j-Hqk2Memvivkg)
 
 ## <mark style="background-color:orange;">Recommended Classical Artists</mark>
 
@@ -69,10 +79,10 @@ layout: editorial
 
 * [**Jake Fried**](http://inkwood.net/)
 * [**Fewocious**](https://twitter.com/fewocious)
-* [**Artblocks**](https://twitter.com/artblocks\_io)
+* [**Artblocks**](https://twitter.com/artblocks_io)
 * [**Beeple**](https://twitter.com/beeple)
 * [**Pak**](https://twitter.com/muratpak)
 * [**XCOPYART**](https://twitter.com/XCOPYART)
-* [**neon\_based**](https://twitter.com/neon\_based)
+* [**neon\_based**](https://twitter.com/neon_based)
 * [**Banksy**](https://www.banksy.co.uk/)
 * [**gydravlik**](https://gydravlik.art/)

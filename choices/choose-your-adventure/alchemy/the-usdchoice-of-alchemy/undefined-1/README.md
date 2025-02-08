@@ -1,6 +1,16 @@
 ---
 description: Destiny, wills, and free wills.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🦅 𝙻𝚒𝚋𝚎𝚛𝚘 𝙰𝚛𝚋𝚒𝚝𝚛𝚒𝚘

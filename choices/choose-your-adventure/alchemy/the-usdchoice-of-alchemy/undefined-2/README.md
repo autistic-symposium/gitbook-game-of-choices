@@ -1,8 +1,17 @@
 ---
 description: Shielding is the most critical skill for a player.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
-# 🛡 𝚂𝚌𝚑𝚎𝚛𝚖𝚊𝚝𝚞𝚛𝚊
+# 🛡️ 𝚂𝚌𝚑𝚎𝚛𝚖𝚊𝚝𝚞𝚛𝚊
 
-<mark style="background-color:purple;"></mark>

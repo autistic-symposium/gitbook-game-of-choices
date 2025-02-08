@@ -1,5 +1,15 @@
 ---
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # IV of Wands
@@ -16,6 +26,5 @@ layout: editorial
 
 ### <mark style="color:purple;">natural force</mark>&#x20;
 
-<mark style="color:purple;"></mark>
 
-<mark style="color:purple;"></mark>
+

@@ -1,6 +1,16 @@
 ---
 description: Understanding the minor arcana in Tarot.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 💙 𝙰𝚛𝚌𝚊𝚗𝚒 𝙼𝚒𝚗𝚘𝚛𝚒

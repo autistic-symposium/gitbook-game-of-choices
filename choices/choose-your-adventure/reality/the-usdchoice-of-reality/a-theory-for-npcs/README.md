@@ -1,6 +1,16 @@
 ---
 description: It might be you.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🤖 𝚆𝚑𝚘 𝙰𝚛𝚎 𝚃𝚑𝚎 𝙽𝙿𝙲𝚜

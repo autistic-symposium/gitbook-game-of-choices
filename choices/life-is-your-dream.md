@@ -1,5 +1,15 @@
 ---
-layout: landing
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # ✨ \[ 𝙻𝚒𝚏𝚎 𝚒𝚜 𝚈𝚘𝚞𝚛 𝙳𝚛𝚎𝚊𝚖 ]

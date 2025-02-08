@@ -1,6 +1,16 @@
 ---
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
-# 📐 Angles
+# 📐 𝙰𝚗𝚐𝚕𝚎𝚜
 

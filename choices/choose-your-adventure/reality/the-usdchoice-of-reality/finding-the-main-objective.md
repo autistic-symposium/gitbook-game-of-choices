@@ -1,6 +1,16 @@
 ---
 description: Everyone is playing a different game.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 📍 𝚈𝚘𝚞𝚛 𝙼𝚊𝚒𝚗 𝙾𝚋𝚓𝚎𝚌𝚝𝚒𝚟𝚎

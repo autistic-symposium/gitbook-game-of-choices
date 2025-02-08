@@ -1,6 +1,16 @@
 ---
 description: Knowledge and  freedom are the most valuable commodities.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🔺 𝙻𝚎𝚟𝚎𝚕𝚒𝚗𝚐 𝚄𝚙

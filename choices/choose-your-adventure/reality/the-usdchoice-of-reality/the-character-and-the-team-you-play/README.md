@@ -1,6 +1,16 @@
 ---
 description: How players get assigned.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🌟 𝚃𝚑𝚎 𝟷𝟸 𝚃𝚎𝚊𝚖𝚜 𝙿𝚕𝚊𝚢𝚒𝚗𝚐

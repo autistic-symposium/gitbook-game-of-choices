@@ -1,6 +1,16 @@
 ---
 description: ✨🌹 Now, trust the universe 🌹✨
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🏆 You won this adventure!

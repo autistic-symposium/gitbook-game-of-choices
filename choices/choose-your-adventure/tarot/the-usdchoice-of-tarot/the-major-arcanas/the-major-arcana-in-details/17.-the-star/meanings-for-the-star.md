@@ -1,6 +1,16 @@
 ---
 description: The Daughter of the Firmament.
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # Meanings for the Star

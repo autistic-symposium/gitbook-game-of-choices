@@ -1,5 +1,15 @@
 ---
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🕹️ 𝙸𝚜 𝙵𝚛𝚎𝚎 𝚆𝚒𝚕𝚕 𝚁𝚎𝚊𝚕?

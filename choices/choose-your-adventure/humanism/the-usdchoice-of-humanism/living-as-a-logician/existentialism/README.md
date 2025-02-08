@@ -1,5 +1,15 @@
 ---
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🤯 𝙴𝚡𝚒𝚜𝚝𝚎𝚗𝚝𝚒𝚊𝚕𝚒𝚜𝚖

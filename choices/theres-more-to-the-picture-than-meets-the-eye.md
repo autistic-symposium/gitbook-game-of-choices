@@ -1,5 +1,15 @@
 ---
-layout: landing
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # ✨ \[ 𝙾𝚙𝚎𝚗 𝚢𝚘𝚞𝚛 𝚖𝚒𝚗𝚍, 𝚒𝚝 𝚏𝚎𝚎𝚕𝚜 𝚐𝚘𝚘𝚍 ]

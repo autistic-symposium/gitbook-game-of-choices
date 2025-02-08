@@ -1,6 +1,16 @@
 ---
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
-# 🏠 The 12 Loci
+# 🏠 𝚃𝚑𝚎 𝟷𝟸 𝙻𝚘𝚌𝚒
 

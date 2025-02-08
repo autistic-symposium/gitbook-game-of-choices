@@ -1,6 +1,16 @@
 ---
 description: La dolce vita. U'v'chen, and so?
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
 # 🤯 𝙱𝚞𝚝... 𝚠𝚑𝚢?

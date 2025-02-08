@@ -1,6 +1,16 @@
 ---
-layout: editorial
+layout:
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
 ---
 
-# 💛 Thoth Tarot
+# 💛 𝚃𝚑𝚘𝚝𝚑 𝚃𝚊𝚛𝚘𝚝
 
