@@ -277,6 +277,7 @@
             * [Burn it all down](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/living-as-a-logician/undefined/nietzsche/burn-it-all-down.md)
             * [Thus Spoke Zarathustra](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/living-as-a-logician/undefined/nietzsche/thus-spoke-zarathustra.md)
             * [The Antichrist](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/living-as-a-logician/undefined/nietzsche/antichrist.md)
+            * [Human All Too Human](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/living-as-a-logician/undefined/nietzsche/antichrist-1.md)
           * [Beyond Nihilism](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/living-as-a-logician/undefined/beyond.md)
         * [🏴‍☠️ 𝙰𝚗𝚊𝚛𝚌𝚑𝚢](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/living-as-a-logician/social-anarchy/README.md)
           * [Prologue](choices/choose-your-adventure/humanism/the-usdchoice-of-humanism/living-as-a-logician/social-anarchy/living-as-a-social-anarchist-1-1.md)

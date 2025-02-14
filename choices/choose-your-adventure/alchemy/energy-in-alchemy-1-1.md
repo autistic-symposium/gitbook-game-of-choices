@@ -38,4 +38,5 @@ layout:
 
 ### <mark style="color:purple;">Fortunately, alchemy and the Hermetic teaching survived in the Arabian lands and were rekindled in Europe with the infusion of copied Alexandrian manuscripts brought to Spain by Arabian invaders. The Arabs crossed over from Morocco in 711 CE and occupied Spain for more than seven centuries. The Islamic rulers proved very tolerant, and Spain soon became a haven for philosophers, alchemists, magickians, and freethinkers of all persuasions. By 1100, Latin translations of alchemy and Hermetic manuscripts were spreading throughout Europe. Alchemy would thrive in Europe for the next seven hundred years.</mark>
 
-{% embed url="https://youtu.be/JSWqNfI5t2g?feature=shared" %}
+{% embed url="https://www.youtube.com/watch?v=XII4YZGq1vw" %}
+
